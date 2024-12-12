@@ -15,8 +15,3 @@ A simple recipe website built using HTML, CSS, and JavaScript. This website allo
 - **CSS:** Styled the website for a visually appealing design.
 - **JavaScript:** Added interactivity, including search functionality and dynamic recipe display.
 
-## Installation
-
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/recipe-website.git
